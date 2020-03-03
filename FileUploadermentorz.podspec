@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'FileUploaderMentorz'
-s.version          = '1.0.1'
+s.version          = '1.0.2'
 s.summary          = 'Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project'
 
 # This description is used to generate tags and improve search results.

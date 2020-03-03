@@ -20,6 +20,7 @@ s.author           = { 'HamzaGhazouani' => 'hamza.ghazouani@gmail.com' }
 s.source           = { :git => 'https://github.com/nishitmishra96/FileUploaderMentorz.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '11.0'
+s.dependency 'Alamofire'
 
 s.source_files = 'classes/**/*'
 
